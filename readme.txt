@@ -1,0 +1,1 @@
+This is a simple website made with HTML, CSS, and few lines of JS. It's only for practice purpose.
